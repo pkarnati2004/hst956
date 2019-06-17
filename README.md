@@ -1,6 +1,6 @@
 # Hst956/6.S897 Final Project
 
-Final Project for ML for Healthcare
+Final Project for ML for Healthcare: Paper[https://github.com/pkarnati2004/hst956/blob/master/pkarnati-aslevy-ezhou-final.pdf]
 
 ## From Abstract
 
